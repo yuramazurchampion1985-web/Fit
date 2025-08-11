@@ -1,5 +1,4 @@
-import os git commit --allow-empty -m "Force redeploy"
-git push origin main
+import os
 import time
 import logging
 import hmac
