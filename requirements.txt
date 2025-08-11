@@ -1,5 +1,5 @@
 Flask==2.3.2
-python-telegram-bot==13.11
+python-telegram-bot==13.11.7
 fpdf==1.7.2
 werkzeug==2.3.8
 gunicorn
